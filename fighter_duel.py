@@ -32,3 +32,4 @@ while 1:
     round_count += 1
     print (fighter_1.status() + ", " + fighter_2.status())
     print ("\n")
+    "another test comment"
