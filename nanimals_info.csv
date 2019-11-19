@@ -1,0 +1,9 @@
+animal,uniq_id,water_need,location,sex
+elephant,1001,500,Asia,male
+elephant,1002,600,Asia,male
+elephant,1003,550,Asia,female
+tiger,1005,320,Asia,male
+tiger,1006,330,Asia,female
+kangaroo,1020,410,Australia,male
+kangaroo,1021,430,Australia,female
+kangaroo,1022,410,Australia,female
